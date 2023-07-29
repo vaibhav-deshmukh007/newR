@@ -9,6 +9,7 @@ public class Tiger {
 		System.out.println("K");
 
 		System.out.println("xyz class");
+		System.out.println("double");
 	}
 
 }
