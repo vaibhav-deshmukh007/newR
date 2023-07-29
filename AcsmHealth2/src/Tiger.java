@@ -8,7 +8,7 @@ public class Tiger {
 
 		System.out.println("K");
 
-		System.out.println("xyz");
+		System.out.println("xyz class");
 	}
 
 }
