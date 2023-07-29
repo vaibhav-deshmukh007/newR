@@ -10,6 +10,7 @@ public class Tiger {
 
 		System.out.println("xyz class");
 		System.out.println("double");
+		int a=10;
 	}
 
 }
